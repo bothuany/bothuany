@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Recep Batuhan Dikmen</h1>
 <h3 align="center">Computer Engineering student at Eskişehir Technical University.</h3>
 
-- 🌱 I’m currently learning **React, MySQL, Data Science, Spring**
+- 🌱 I’m currently learning **React, Data Science, Spring**
 
 - 📫 How to reach me **rbdikmen@gmail.com**
 
