@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **rbdikmen@gmail.com**
 
-- 👨‍💻 <a href="https://recepbatuhandikmen.vercel.app/">Personal website<a/>
+- 👨‍💻 <a href="https://recepbatuhandikmen.vercel.app/" target="_blank">Personal website<a/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
