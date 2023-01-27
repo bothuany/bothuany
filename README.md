@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Recep Batuhan Dikmen</h1>
 <h3 align="center">Computer Engineering student at Eskişehir Technical University.</h3>
 
-- 🌱 I’m currently learning **Spring, Flutter**
+- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, Deep Learning, Data Science and Flutter**
 
 - 📫 How to reach me **rbdikmen@gmail.com**
 
