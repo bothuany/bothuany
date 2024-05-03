@@ -14,7 +14,7 @@
   <a href="https://www.hackerrank.com/rbdikmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rbdikmen" height="30" width="40" /></a>
 </p>
 
-<table>
+<table align="center">
 <tr><th>Languages </th><th>Web Development</th><th>Frameworks and Libraries</th></tr>
 <tr>
   <td>
@@ -51,7 +51,7 @@
 </tr> 
 </table>
 
-<table>
+<table align="center">
 <tr><th>Databases </th><th>Tools</th><th>Other</th></tr>
 <tr>
   <td>
