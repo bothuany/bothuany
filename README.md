@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Recep Batuhan Dikmen</h1>
-<h3 align="center">Junior Software Developer at ATP Digital.</h3>
+<h3 align="center">Associate Software Developer at Turkcell.</h3>
 
 - 📫 How to reach me **rbdikmen@gmail.com**
 
